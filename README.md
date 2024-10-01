@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+# - 🌱 Not my main repo, see https://gitlab.com/FranAyrolo for the (relatively) up to date stuff
 <!--
 **FranAyrolo/FranAyrolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
